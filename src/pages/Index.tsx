@@ -11,6 +11,12 @@ const Index = () => {
   return (
     <Layout className="max-w-5xl">
       <div className="flex flex-col items-center justify-center pt-8 pb-16 text-center animate-fade-in">
+        <img 
+          src="/motorph-logo.png" 
+          alt="MotorPH Logo" 
+          className="h-28 w-auto mb-6 animate-fade-in" 
+        />
+        
         <h1 className="text-4xl sm:text-5xl font-bold tracking-tight mb-4">
           MotorPH Payroll System
         </h1>
