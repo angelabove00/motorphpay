@@ -12,10 +12,10 @@ const Index = () => {
     <Layout className="max-w-5xl">
       <div className="flex flex-col items-center justify-center pt-8 pb-16 text-center animate-fade-in">
         <h1 className="text-4xl sm:text-5xl font-bold tracking-tight mb-4">
-          Payroll Management System
+          MotorPH Payroll System
         </h1>
         <p className="text-lg text-muted-foreground max-w-3xl mb-8">
-          A simple, intuitive, and beautiful payroll system for managing employee information, work hours, and salary calculations.
+          A simple, intuitive, and powerful payroll system for managing employee information, work hours, and salary calculations for MotorPH.
         </p>
         
         <div className="flex gap-4 mb-16">

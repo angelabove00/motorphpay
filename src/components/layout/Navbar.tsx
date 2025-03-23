@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className="container mx-auto px-4 sm:px-6 flex h-16 items-center justify-between">
         <div className="flex items-center space-x-4">
           <Link to="/" className="font-medium tracking-tight text-lg transition-all-200 hover:opacity-80">
-            Payroll System
+            MotorPH Payroll
           </Link>
         </div>
         <div className="flex items-center space-x-4">

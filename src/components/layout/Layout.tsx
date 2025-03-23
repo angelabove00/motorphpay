@@ -17,7 +17,7 @@ const Layout = ({ children, className }: LayoutProps) => {
       </main>
       <footer className="py-6 border-t">
         <div className="container mx-auto px-4 sm:px-6 text-center text-sm text-muted-foreground">
-          <p>© {new Date().getFullYear()} Payroll System. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} MotorPH Payroll System. All rights reserved.</p>
         </div>
       </footer>
     </div>
