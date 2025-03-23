@@ -12,7 +12,7 @@ const Index = () => {
     <Layout className="max-w-5xl">
       <div className="flex flex-col items-center justify-center pt-8 pb-16 text-center animate-fade-in">
         <img 
-          src="motorph-logo.png" 
+          src="/motorph-logo.png" 
           alt="MotorPH Logo" 
           className="h-28 w-auto mb-6 animate-fade-in" 
         />
